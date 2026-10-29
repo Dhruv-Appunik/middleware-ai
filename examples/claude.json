@@ -1,0 +1,7 @@
+{
+  "app": "application-one",
+  "model": "auto",
+  "type": "claude",
+  "query": "Say hello from application one",
+  "context": "You are a helpful assistant."
+}

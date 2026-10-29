@@ -1,0 +1,7 @@
+{
+  "app": "ollama-app",
+  "model": "auto",
+  "type": "ollama",
+  "query": "Say hello from the Ollama application",
+  "context": "You are a helpful assistant."
+}

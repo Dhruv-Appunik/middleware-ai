@@ -1,0 +1,7 @@
+{
+  "app": "chatgpt-app",
+  "model": "auto",
+  "type": "chatgpt",
+  "query": "Say hello from the ChatGPT application",
+  "context": "You are a helpful assistant."
+}

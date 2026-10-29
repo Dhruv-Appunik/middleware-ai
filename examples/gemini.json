@@ -1,0 +1,7 @@
+{
+  "app": "gemini-app",
+  "model": "auto",
+  "type": "gemini",
+  "query": "Say hello from the Gemini application",
+  "context": "You are a helpful assistant."
+}

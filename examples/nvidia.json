@@ -1,0 +1,7 @@
+{
+  "app": "nvidia-app",
+  "model": "auto",
+  "type": "nvidia",
+  "query": "Say hello from the NVIDIA application",
+  "context": "You are a helpful assistant."
+}

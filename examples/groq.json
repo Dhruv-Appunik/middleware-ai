@@ -1,0 +1,7 @@
+{
+  "app": "groq-app",
+  "model": "auto",
+  "type": "groq",
+  "query": "Say hello from the Groq application",
+  "context": "You are a helpful assistant."
+}

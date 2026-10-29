@@ -1,0 +1,8 @@
+{
+  "app": "image-app",
+  "model": "auto",
+  "type": "horde",
+  "prompt": "A red bicycle on a quiet street at sunset",
+  "size": "512x512",
+  "n": 1
+}

@@ -1,0 +1,8 @@
+{
+  "app": "image-app",
+  "model": "auto",
+  "type": "ollama",
+  "prompt": "A red bicycle on a quiet street at sunset",
+  "size": "1024x1024",
+  "n": 1
+}

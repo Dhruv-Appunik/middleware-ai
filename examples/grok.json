@@ -1,0 +1,7 @@
+{
+  "app": "grok-app",
+  "model": "auto",
+  "type": "grok",
+  "query": "Say hello from the Grok application",
+  "context": "You are a helpful assistant."
+}
